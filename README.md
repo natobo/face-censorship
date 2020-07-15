@@ -13,6 +13,6 @@ npm install
 ```bash
 npm start
 ```
-5. Finally go to : http://localhost:<numberThatYouTerminalGenerate>/face.html
+5. Finally go to : http://localhost:numberThatYouTerminalGenerate/face.html
 6. Enjoy the application! 😃
 
